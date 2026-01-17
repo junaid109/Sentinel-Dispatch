@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SentinelDispatch.AppHost/SentinelDispatch.AppHost.csproj" />
+  <Project Path="SentinelDispatch.IncidentService/SentinelDispatch.IncidentService.csproj" />
+  <Project Path="SentinelDispatch.ResourceService/SentinelDispatch.ResourceService.csproj" />
+  <Project Path="SentinelDispatch.ServiceDefaults/SentinelDispatch.ServiceDefaults.csproj" />
+  <Project Path="SentinelDispatch.Shared/SentinelDispatch.Shared.csproj" />
+  <Project Path="SentinelDispatch.Tests/SentinelDispatch.Tests.csproj" />
+  <Project Path="SentinelDispatch.Web/SentinelDispatch.Web.csproj" />
+</Solution>

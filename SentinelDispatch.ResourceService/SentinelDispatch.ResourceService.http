@@ -1,0 +1,6 @@
+@SentinelDispatch.ResourceService_HostAddress = http://localhost:5097
+
+GET {{SentinelDispatch.ResourceService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
