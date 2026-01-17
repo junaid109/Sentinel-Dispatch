@@ -6,7 +6,7 @@ SentinelDispatch is a high-availability, real-time emergency response coordinato
 
 ![Status](https://img.shields.io/badge/Status-Prototype-blue)
 ![Build](https://img.shields.io/badge/Build-Passing-green)
-![License](https://img.shields.io/badge/License-MIT-purple)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 
 ## 🌟 Key Features
 
@@ -59,6 +59,14 @@ The solution includes a comprehensive xUnit test suite for shared contracts and 
 dotnet test
 ```
 
-## 📜 License
+## 📜 License & Ownership
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Copyright (c) 2026 Junaid Malik. All Rights Reserved.**
+
+This project and its source code are proprietary. Unauthorized copying, modification, distribution, or use for commercial purposes is strictly prohibited without written permission.
+
+For custom licensing, full enterprise implementation, or consulting inquiries, please contact:
+
+*   **Email**: junaidmalik.rm@gmail.com
+*   **Website**: [www.junaidmalik.org](http://www.junaidmalik.org)
+
